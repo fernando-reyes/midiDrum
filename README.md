@@ -1,7 +1,7 @@
 # midiDrum
 Proyecto arduino - batería midi
 
-Arduino Uno
+Arduino Uno + hiduino
 
 DEPS: 1  x mux Motorola MC14067B
 
@@ -13,3 +13,6 @@ DEPS: 1  x mux Motorola MC14067B
       
       16 x R 39K
       
+      16 x piezo transductor
+      
+      1  x buen soldador (pero uno malo tambien sirve, ese fuí yo)
